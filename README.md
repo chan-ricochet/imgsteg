@@ -6,7 +6,7 @@ It includes the codebase for both encoding and decoding a text message within an
 
 ____________
 
-#Advantages:
+# Advantages
 
 Simple and Fast: The LSB algorithm is relatively easy to implement
 
@@ -14,6 +14,6 @@ High Capacity: It can hide a large amount of data, especially in images with hig
 
 Visual Imperceptibility: The changes made to the pixels are often so small that they are not noticeable to the human eye, making the hidden information difficult to detect visually
 
-#Disadvantages:
+# Disadvantages
 
 The data is easily corrupted or destroyed if the image is compressed using methods like JPEG, which can alter the LSBs
